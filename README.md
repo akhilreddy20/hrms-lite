@@ -4,9 +4,9 @@ A lightweight web-based HRMS application for managing employee records and track
 
 ## 🚀 Live Demo
 
-- **Frontend**: 
-- **Backend API**: 
-- **API Documentation**: 
+- **Frontend**: https://hrms-lite-eight-theta.vercel.app/
+- **Backend API**: https://hrms-lite-y0ev.onrender.com
+- **API Documentation**: https://hrms-lite-backend.up.railway.app/docs
 
 ## 📋 Features
 
@@ -37,7 +37,7 @@ A lightweight web-based HRMS application for managing employee records and track
 
 ### Deployment
 - Frontend: Vercel
-- Backend: Railway
+- Backend: Render
 - Database: MongoDB Atlas
 
 ## 📦 Installation & Local Setup
@@ -50,7 +50,7 @@ A lightweight web-based HRMS application for managing employee records and track
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/HRMS-Lite.git
+git clone https://github.com/akhilreddy20/hrms-lite
 cd HRMS-Lite
 ```
 
@@ -218,9 +218,9 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Your Name - [Your Email]
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+  Name - akhilreddy8688@gmail.com
+- GitHub: https://github.com/akhilreddy20
+- LinkedIn:
 
 ## 🙏 Acknowledgments
 
@@ -228,49 +228,3 @@ Your Name - [Your Email]
 - React documentation
 - Tailwind CSS
 - MongoDB
-```
-
----
-
-## Part 6: Test Everything
-
-Before final submission:
-
-1. ✅ Visit your live frontend URL
-2. ✅ Add an employee
-3. ✅ Mark attendance
-4. ✅ View dashboard
-5. ✅ Test date filters
-6. ✅ Check all features work
-7. ✅ Test on mobile device
-8. ✅ Visit `/docs` on backend URL to verify API
-
----
-
-## Part 7: Final Submission Format
-
-Create a document or email with:
-```
-HRMS Lite - Submission
-
-1. Live Application URL:
-   https://your-app.vercel.app
-
-2. GitHub Repository:
-   https://github.com/YOUR_USERNAME/HRMS-Lite
-
-3. Backend API:
-   https://hrms-lite-backend.up.railway.app
-
-4. API Documentation:
-   https://hrms-lite-backend.up.railway.app/docs
-
-5. Test Credentials:
-   No authentication required - direct access to all features
-
-6. Key Features:
-   - Employee CRUD operations
-   - Attendance marking and tracking
-   - Dashboard with statistics
-   - Date range filtering
-   - Performance analytics

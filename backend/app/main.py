@@ -7,16 +7,19 @@ app = FastAPI(title="HRMS Lite API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "http://localhost:5173",
+        "https://your-app.vercel.app",  
+        "https://*.vercel.app",  
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 app.include_router(employee.router)
 app.include_router(attendance.router)
 
 @app.get("/")
 def root():
-    return {"message":"HRMS Lite Backend is running"}
+    return {"message": "HRMS Lite Backend is running"}
