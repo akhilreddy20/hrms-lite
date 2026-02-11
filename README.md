@@ -6,7 +6,7 @@ A lightweight web-based HRMS application for managing employee records and track
 
 - **Frontend**: https://hrms-lite-eight-theta.vercel.app/
 - **Backend API**: https://hrms-lite-y0ev.onrender.com
-- **API Documentation**: https://hrms-lite-backend.up.railway.app/docs
+- **API Documentation**: https://hrms-lite-backend.up.render.app/docs
 
 ## 📋 Features
 
