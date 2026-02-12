@@ -218,9 +218,9 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-  Name - akhilreddy8688@gmail.com
+  Name - Akhil Reddy
 - GitHub: https://github.com/akhilreddy20
-- LinkedIn:
+- LinkedIn:https://linkedin.com/in/akhilreddy20
 
 ## 🙏 Acknowledgments
 
