@@ -1,3 +1,4 @@
+"""Manual connectivity check: python scripts/check_db_connection.py (not a test)."""
 from motor.motor_asyncio import AsyncIOMotorClient
 import asyncio
 import os
