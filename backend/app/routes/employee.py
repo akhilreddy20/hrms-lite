@@ -7,8 +7,6 @@ router = APIRouter(prefix="/employees", tags=["Employees"])
 
 @router.post("/", status_code=status.HTTP_201_CREATED)
 async def create_employee(employee: EmployeeCreate):
-    print("Received data:", employee.dict())  # Add this line for debugging
-    
     existing = await employee_collection.find_one({"employee_id": employee.employee_id})
     if existing:
         raise HTTPException(
